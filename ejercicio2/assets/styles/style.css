@@ -3,6 +3,22 @@ body {
     font-family: 'Chicle', cursive;
     color: rgb(177, 11, 177);
     padding: 70px;
+}
+table {
+    text-align: center;
+    border: 2px solid rgb(171, 97, 6);
 
 }
 
+td, th{
+    border: 2px solid rgb(177, 11, 177);
+    padding:  15px;
+    border-spacing: 50px;
+}
+img{
+    padding:5%;
+}
+
+table{
+    padding:2.5%;
+}
